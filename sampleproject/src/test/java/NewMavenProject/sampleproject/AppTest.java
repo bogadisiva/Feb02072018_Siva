@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void sample(){
+    	System.out.println("test");
+    }
+    
 }
